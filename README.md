@@ -1,1 +1,8 @@
 # VITBML-EDA
+
+WHAT ARE THE TYPES IN DATA TYPES?
+WHAT ARE THE USES OF DATA SETS?
+HOW TO COLLECT DATA?HOW TO ANALYZE THE DAQTA?
+CONCLUSION:
+         THIS DATA SET IS ABOUT IPL Ball by ball data.which contains like wides,rus,fours,sixes
+         
